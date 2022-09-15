@@ -1,0 +1,25 @@
+form {
+  display: flex;
+  justify-content: center;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 5rem !important;
+}
+
+form > button {
+  width: 6rem;
+  height: 3.7rem;
+  border-radius: 30px !important;
+  background-color: green !important;
+  color: white !important;
+  margin-left: 1rem;
+}
+
+.searchContain > p {
+  text-align: center;
+  margin-top: 2rem !important;
+}

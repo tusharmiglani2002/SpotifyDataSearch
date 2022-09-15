@@ -1,0 +1,15 @@
+.login > img {
+  width: 30%;
+}
+
+.login {
+  text-align: center;
+  margin-top: 12rem;
+}
+
+.login > button {
+  border-radius: 30px;
+  width: 5rem;
+  height: 3rem;
+  margin-top: 2rem;
+}

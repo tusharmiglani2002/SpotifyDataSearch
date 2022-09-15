@@ -1,0 +1,21 @@
+.hide {
+  display: none;
+}
+
+.searchBtn {
+  text-align: center;
+}
+
+.searchBtn button {
+  border-radius: 30px;
+  width: 6rem;
+  height: 3rem;
+  border: 2px solid green;
+  color: green;
+  margin: 0 1rem 3rem 1rem;
+}
+
+.searchBtn .active {
+  background-color: green !important;
+  border: none;
+}
