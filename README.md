@@ -1,6 +1,6 @@
 # Spotify Data Search
 
-[Live Link] {https://spotify-data-search.vercel.app/}
+[Live Link](https://spotify-data-search.vercel.app/)
 
 ## What does it do?
 
