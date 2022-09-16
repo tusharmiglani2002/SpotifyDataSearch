@@ -10,7 +10,7 @@ The Web Application uses Spotify Web API to fetch Albums and Artists information
 
 When the user opens the website in the browser, s/he is prompted with a Login Page containing a button. Using Spotify's Authentication, s/he is logged in into his/her Spotify account. The user then can use the application to carry out necessary searches.
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/d8eb091255054530be441ff2e8cc41cd" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+[<a href="https://www.loom.com/share/d8eb091255054530be441ff2e8cc41cd"><p>Watch the video here:</p><img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d8eb091255054530be441ff2e8cc41cd-with-play.gif"></a>)](https://www.loom.com/embed/d8eb091255054530be441ff2e8cc41cd)
 
 ## Why did I build this?
 
